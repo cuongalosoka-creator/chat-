@@ -1,0 +1,6 @@
+{
+  "name": "NhịpChat — Kênh Chat Cộng Đồng",
+  "description": "Ứng dụng kênh chat cộng đồng thời gian thực giúp điện thoại và máy tính kết nối trò chuyện từ xa, hỗ trợ cài đặt WebAPK / PWA và đóng gói APK Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

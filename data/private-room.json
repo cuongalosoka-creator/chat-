@@ -1,0 +1,28 @@
+{
+  "messages": [
+    {
+      "id": "seed-msg-1",
+      "senderId": "seed-minh",
+      "senderName": "Minh",
+      "senderDevice": "mobile",
+      "text": "Alo mọi người, mình vừa vào phòng bằng điện thoại rồi nhé!",
+      "timestamp": 1795080602106
+    },
+    {
+      "id": "seed-msg-2",
+      "senderId": "seed-cuong",
+      "senderName": "Cường",
+      "senderDevice": "desktop",
+      "text": "Ok Minh, bên máy tính Windows nhận tin tức thì luôn 😂",
+      "timestamp": 1795080962106
+    },
+    {
+      "id": "msg-1795081333038-w3u6bv",
+      "senderId": "u-mwnd2ss3-nmztn",
+      "senderName": "Cường",
+      "senderDevice": "desktop",
+      "text": "Chào cả nhà, test Dark Mode!",
+      "timestamp": 1795081333053
+    }
+  ]
+}
